@@ -1,6 +1,6 @@
-# photo_album_app for Hikigai_assement
+# photo_album_app for Hikigai_assignment 
 
-A new Flutter assesment project.
+A new Flutter assignment project.
 
 App Features :
 1.Fetch Images from API: Fetch images from the https://picsum.photos/200/300 API.
