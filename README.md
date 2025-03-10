@@ -9,4 +9,4 @@ App Features :
 4.Search Functionality: Allow users to search images by ID or title.
 5.Error Handling: Handle network failures gracefully and show error messages.
 6.Modern UI: Use Flutter's Material Design for a clean and user-friendly interface.
-7.MVVM Patern.
+7.MVVM Pattern.
