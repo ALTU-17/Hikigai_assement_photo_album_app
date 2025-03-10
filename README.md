@@ -1,16 +1,12 @@
-# photo_album_app
+# photo_album_app for Hikigai_assement
 
-A new Flutter project.
+A new Flutter assesment project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App Features :
+1.Fetch Images from API: Fetch images from the https://picsum.photos/200/300 API.
+2.Display Images in a Grid: Show images in a grid layout with section headers.
+3.Pagination/Lazy Loading: Implement pagination to load images in batches for smooth scrolling.
+4.Search Functionality: Allow users to search images by ID or title.
+5.Error Handling: Handle network failures gracefully and show error messages.
+6.Modern UI: Use Flutter's Material Design for a clean and user-friendly interface.
+7.MVVM Patern.
